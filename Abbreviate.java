@@ -1,3 +1,4 @@
+// good
 public class Abbreviate {
     public static void main(String[] args) {
         if (args.length != 1) {
