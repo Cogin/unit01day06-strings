@@ -1,3 +1,4 @@
+// good; I like the usage reminder
 public class ShortLongShort {
     public static void main(String[] args) {
         String output = new String();
